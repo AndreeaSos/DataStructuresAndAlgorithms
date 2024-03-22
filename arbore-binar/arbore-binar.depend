@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698129112 source:c:\users\sosan\desktop\pa\arbore-binar\main.c
+	<stdio.h>
+	<stdlib.h>
+

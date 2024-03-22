@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701758268 source:c:\users\sosan\desktop\pa\greedyactivitati\main.c
+	<stdio.h>
+	<stdlib.h>
+
